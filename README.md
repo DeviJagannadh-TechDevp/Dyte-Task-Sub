@@ -40,7 +40,7 @@ I hosted the entire project on my AWS instance and connected to my personal doma
 
 IP : ``` http://34.238.132.70```
 
-Domain :  ``` http://dyte.thedj.tech```
+Domain :  ``` http://task.thedj.tech```
 
 ## Output Screen Shorts
 
