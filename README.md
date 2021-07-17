@@ -5,7 +5,7 @@ Frontend (React) - 70% completed.
 ## Installation
 
 Install npm in your machine from : 
-[Click Here](https://choosealicense.com/licenses/mit/)
+[Click Here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 
 ## Run this code!
